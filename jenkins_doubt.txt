@@ -1,5 +1,0 @@
-What is a Jenkins Pipeline?
-What is a Continuous delivery pipeline?
-What is Declarative Pipeline in Jenkins?
-
-directives in jenkins ?
